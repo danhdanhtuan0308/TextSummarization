@@ -4,6 +4,5 @@ venv/
 .DS_Store
 __pycache__/
 logs/
-research/pegasus-samsum/
+research/
 summarizer-data/
-research/pegasus-samsum-model/
