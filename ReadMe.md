@@ -173,4 +173,4 @@ curl -X POST "http://127.0.0.1:8000/predict" \
 ## Testing prediction 
 Example : The old lighthouse stood silent, its beam long extinguished. Every night, Ella climbed its spiral stairs, clutching a lantern. She’d heard the tales—ships lost to the fog, guided once by that light. Her grandfather had been the last keeper, his logbook filled with cryptic notes: “They call from the deep.” Tonight, the fog was thick, the air heavy with whispers. She lit the lantern, and the mist parted, revealing countless glowing eyes below the waves. A voice echoed, “Thank you.” Ella smiled, knowing she’d rekindled more than light—she’d honored a pact older than memory. 
 
-Output : ![alt text](image-1.png)
+Output : ![image](https://github.com/user-attachments/assets/cd89291c-a48f-4646-99a2-580e01bcbfc6)
