@@ -4,5 +4,4 @@ venv/
 .DS_Store
 __pycache__/
 logs/
-research/
 summarizer-data/
