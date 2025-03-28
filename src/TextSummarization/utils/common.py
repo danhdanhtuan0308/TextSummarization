@@ -4,7 +4,7 @@ import yaml
 from src.TextSummarization.logging import logger
 from box import ConfigBox
 from pathlib import Path 
-from typing import Any 
+from typing import Any
 
 
 ##Read Yaml 
