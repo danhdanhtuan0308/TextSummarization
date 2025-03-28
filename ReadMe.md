@@ -1,4 +1,4 @@
-# Text Summerization using Hugging-face 
+# Text Summarization using Hugging-face 
 
 ## Workflows 
 
